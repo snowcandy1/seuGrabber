@@ -1,0 +1,4 @@
+http://newxk.urp.seu.edu.cn/xsxkapp/sys/xsxkapp/elective/deleteVolunteer.do
+
+timestamp: 1535428463275
+deleteParam: {"data":{"operationType":"2","studentCode":"13A18422","electiveBatchCode":"4b71d698a1d145faaedf5c011cc11dd9","teachingClassId":"201820192B00JG01105","isMajor":"1"}}
